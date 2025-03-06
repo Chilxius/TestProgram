@@ -10,5 +10,6 @@ void draw()
 {
   background(0);
   
+  fill(200,0,0);
   circle(100,100,100);
 }
